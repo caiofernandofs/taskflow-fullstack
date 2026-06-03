@@ -2,6 +2,10 @@
 
 O **TaskFlow** é uma aplicação fullstack de gerenciamento de tarefas e projetos baseada em quadros (estilo Kanban). O sistema permite que os usuários criem contas, gerenciem seus perfis com segurança e organizem seus fluxos de trabalho através de quadros personalizáveis.
 
+
+## 🔗 Links do Projeto em Produção
+* **Frontend (Netlify):** [https://taskflowcaiodev.netlify.app](https://taskflowcaiodev.netlify.app)
+* **Backend API (Render):** [https://taskflow-fullstack-12yc.onrender.com](https://taskflow-fullstack-12yc.onrender.com)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
