@@ -1,0 +1,12 @@
+# Ignorar dependências
+node_modules/
+dist/
+.json
+
+# Ignorar variáveis de ambiente (Segurança!)
+.env
+.env.local
+
+# Ignorar arquivos do sistema ou IDE
+.DS_Store
+.vscode/
